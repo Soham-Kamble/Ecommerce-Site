@@ -24,7 +24,16 @@ A backend-focused eCommerce website built with **Django**, featuring product lis
 
 ## 📸 Screenshots
 
-> 
+#### 🏠 Home Page
+![Home Page](
+<img width="1919" height="865" alt="Screenshot 2025-07-20 131952" src="https://github.com/user-attachments/assets/4d29e1e5-6346-4ad4-aff8-4ea0e6da459f" />
+)
+
+#### 🔍 Product Search
+![Search](images/search.png)
+
+#### ✅ Checkout Page
+![Checkout](images/checkout.png)
 
 ---
 
